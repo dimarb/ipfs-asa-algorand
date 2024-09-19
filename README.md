@@ -30,8 +30,8 @@ Este proyecto tiene como objetivo crear un NFT (Activo Estándar de Algorand - A
    ALGOD_TOKEN=<algod-token>
    ALGOD_SERVER=<algod-server>
    ALGOD_PORT=<algod-port>
-   PINATA_API_KEY=<pinata-api-key>
-   PINATA_API_SECRET=<pinata-api-secret>
+   PINATA_JWT=<pinata-jwt-tokeny>
+   PINATA_GATEWAY=<pinata-gateway>
    \`\`\`
 
 ## Dependencias
