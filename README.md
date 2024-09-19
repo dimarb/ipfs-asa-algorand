@@ -15,24 +15,24 @@ Este proyecto tiene como objetivo crear un NFT (Activo Estándar de Algorand - A
 ## Instalación
 
 1. Clonar este repositorio:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/usuario/ipfs-asa-algorand.git
    cd ipfs-asa-algorand
-   \`\`\`
+   ```
 
 2. Instalar las dependencias:
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 3. Configurar variables de entorno en un archivo \`.env\`:
-   \`\`\`plaintext
+   ```plaintext
    ALGOD_TOKEN=<algod-token>
    ALGOD_SERVER=<algod-server>
    ALGOD_PORT=<algod-port>
    PINATA_JWT=<pinata-jwt-tokeny>
    PINATA_GATEWAY=<pinata-gateway>
-   \`\`\`
+   ```
 
 ## Dependencias
 
@@ -48,9 +48,6 @@ El proyecto permite:
 2. Subir la metadata del NFT a IPFS usando Pinata.
 3. Asociar la metadata de IPFS al NFT en la blockchain de Algorand.
 
-## Scripts
-
-- **test**: Actualmente no hay pruebas especificadas.
 
 ## Licencia
 
