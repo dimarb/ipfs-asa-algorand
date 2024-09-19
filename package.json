@@ -1,0 +1,17 @@
+{
+  "name": "ipfs-asa-algorand",
+  "version": "1.0.0",
+  "description": "Crear NFT y con metadata en IPFS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "algosdk": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "pinata-web3": "^0.4.1"
+  }
+}
